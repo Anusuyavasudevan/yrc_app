@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212445857935",
+    "project_id": "yrc-app-64f84",
+    "storage_bucket": "yrc-app-64f84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212445857935:android:255c2a6a011ffe8c2108fa",
+        "android_client_info": {
+          "package_name": "com.example.yrc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212445857935-cnqephmflqrrvttj9v49ugvmjove1d8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYtypXlu1Knp2FjDVf4RjEIzpfBzCv58o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212445857935-cnqephmflqrrvttj9v49ugvmjove1d8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

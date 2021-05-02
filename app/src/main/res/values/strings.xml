@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">yrc_app</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="login">login</string>
+    <string name="yrc">YRC</string>
+</resources>
